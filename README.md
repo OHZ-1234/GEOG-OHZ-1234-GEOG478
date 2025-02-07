@@ -1,0 +1,2 @@
+# GEOG-OHZ-1234-GEOG478
+GEOG478 Lab Assignments
